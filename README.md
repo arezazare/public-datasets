@@ -17,7 +17,7 @@ These datasets are collected from real APIs, processed using Python, and publish
   - Polite crawling with `time.sleep`  
   - Listing vs. detail-page parsing  
 - **Output:** CSV dataset ready for EDA or NLP tasks  
-- **🔗 GitHub:** [books-to-scrape-dataset]([https://github.com/YourUser/public_Datasets/tree/main/books-to-scrape-dataset](https://github.com/arezazare/public-datasets/blob/main/scraped_books.csv))
+- **🔗 GitHub:** [books-to-scrape-dataset](https://github.com/arezazare/public-datasets/blob/main/scraped_books.csv)
 
 ---
 
