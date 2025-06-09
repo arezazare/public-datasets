@@ -2,7 +2,7 @@
 
 Welcome to my curated collection of public datasets, all created and published for open analysis, modeling, and collaboration.
 
-These datasets are collected from real APIs, processed using Python, and published on Kaggle or GitHub for easy access. Topics include cryptocurrency, finance, machine learning, and web scraping.
+These datasets are collected from real APIs, processed using Python, and published on Kaggle or GitHub for easy access. Topics include cryptocurrency, movies & media, web scraping, and general machine learning applications.
 
 ---
 
@@ -28,6 +28,23 @@ These datasets are collected from real APIs, processed using Python, and publish
 - **Format:** 1-hour candlesticks with OHLCV, quote volume, trade count  
 - **Use Cases:** EDA, SMA/EMA, backtesting, time series modeling  
 - **🔗 Kaggle:** [View Dataset](https://www.kaggle.com/datasets/arezazare/binance-btcusdt-candlestick)
+
+### 🎬 IMDb Popular Movies with TMDb Enrichment
+- **Data Source:** IMDb Official Datasets + TMDb API  
+- **Format:** 5,000 popular movies with Plot Summaries, Ratings, Votes, Genres, Budget, Revenue, Cast, Country, Languages, and Poster URL  
+- **Use Cases:** NLP, movie recommendation systems, trend analysis, EDA, network analysis  
+- **🔗 Kaggle:** [View Dataset](https://www.kaggle.com/datasets/arezazare/imdb-popular-movies-with-tmdb-enrichment)
+
+---
+
+## 🚧 Upcoming Datasets (WIP)
+
+### 💊 Drugs & Side Effects Dataset (WIP)
+- **Type:** Web scraping project  
+- **Data Sources:** Drugs.com, RxList  
+- **Planned Features:** Drug Name, Uses, Side Effects, Interactions, Contraindications, Dosage, Drug Class, Brand Names  
+- **Planned Use Cases:** NLP, clustering, healthcare analytics, safety analysis  
+- **Status:** In progress — stay tuned!
 
 ---
 
