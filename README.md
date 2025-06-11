@@ -37,17 +37,6 @@ These datasets are collected from real APIs, processed using Python, and publish
 
 ---
 
-## 🚧 Upcoming Datasets (WIP)
-
-### 💊 Drugs & Side Effects Dataset (WIP)
-- **Type:** Web scraping project  
-- **Data Sources:** Drugs.com, RxList  
-- **Planned Features:** Drug Name, Uses, Side Effects, Interactions, Contraindications, Dosage, Drug Class, Brand Names  
-- **Planned Use Cases:** NLP, clustering, healthcare analytics, safety analysis  
-- **Status:** In progress — stay tuned!
-
----
-
 ## 📥 Contribute
 
 Got ideas or want to collaborate on new datasets? Feel free to open an issue or reach out.
